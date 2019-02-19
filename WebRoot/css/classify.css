@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.classify{
+	width:200px;
+	height:70px;
+	background-color:white;
+	margin-left:20px;
+	float:left;
+	font-size:25px;
+	text-align:center;
+	line-height:70px;
+}
+
+.classTitle{
+	text-align:center;
+	font-size:60px;
+	color:#5E87A2;
+}
+
+.return{
+	font-size:30px;
+	text-decoration:none;
+	margin-left:1400px;
+	background-color:#B3B3B3;
+	color:white;
+}
